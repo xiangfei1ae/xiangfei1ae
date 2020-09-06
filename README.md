@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi!我是周涛，就读于福州大学，喜欢打游戏  
-目前掌握了C/C++，以及部分前端基础（HTMI/CSS）  
+  
+目前掌握了C/C++，以及部分前端基础（HTMI/CSS） 
+  
 希望能不断精进编程能力  
+  
 更希望能~~保住发量~~  
 
